@@ -1,5 +1,5 @@
 # 💫 About Me:
-🚀 Chemical Engineering @ NIT Agartala | DS & AI @ IIT Madras🛠️ Building: Python utility apps & EDA projects<br>🔐 Interests: Data Science, Web Dev, and Ethical Hacking<br>⚡ Merging core engineering with AI to solve real-world problems.
+🚀 Chemical Engineering @ NIT Agartala | DS & AI @ IIT Madras<br>🛠️ Building: Python utility apps & EDA projects<br>🔐 Interests: Data Science, Web Dev, and Ethical Hacking<br>⚡ Merging core engineering with AI to solve real-world problems.
 
 
 ## 🌐 Socials:
